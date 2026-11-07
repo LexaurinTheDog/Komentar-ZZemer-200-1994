@@ -601,6 +601,11 @@ Ověřování podle odst. 1 a 2 nelze vykonávat v režimu dočasného či pří
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 588/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D350EB53D4430FB4C12588680017C38F?openDocument) — 13. 4. 2022, kat. A
+  > „Rozsudek, jehož nedílnou součástí je geometrický plán vyhotovený jako originál v listinné podobě, nelze doručit prostřednictvím veřejné datové sítě do datové schránky, neboť to jeho povaha neumožňuje"
+
 #### Profesní povinnosti při ověřování (odst. 1)
 
 Odstavec 1 formuluje profesní standard autorizovaného zeměměřického inženýra (§ 16e). Písm. a) stanoví obecné zásady — odbornost, nestrannost a vycházení ze spolehlivě zjištěného stavu věci — a konkrétní povinnost „vždy prověřit“ soulad postupů vyhotovitele, náležitostí a přesnosti ověřovaných výsledků s právními předpisy. Ověření tedy nespočívá jen v kontrole formy; autorizovaný inženýr musí prověřit i postup, kterým byl výsledek získán. Pro výsledky pro digitální technickou mapu a ve výstavbě přistupuje prověření souladu s písemně dohodnutými podmínkami s objednatelem (písm. b)), pokud nejsou v rozporu s právními předpisy — smluvní standard tak doplňuje, nikoli nahrazuje, zákonné požadavky. U výsledků pro potřeby obrany státu se prověřuje soulad s podmínkami vymezenými Ministerstvem obrany na základě § 11 odst. 2 (písm. c)).
