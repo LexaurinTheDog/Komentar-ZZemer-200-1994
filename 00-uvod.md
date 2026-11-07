@@ -2,7 +2,7 @@
 
 > **Znění k 1. lednu 2026** (dokument e-Sbírky `SB-1994-00200_2026-01-01`). Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze.
 >
-> **Metodická poznámka:** Výklad jednotlivých ustanovení vychází z doslovného konsolidovaného znění zákona citovaného v kapitolách, ze systematiky zákona, z navazujících předpisů dostupných v místní kopii e-Sbírky (zejména zákon č. 359/1992 Sb., o zeměměřických a katastrálních orgánech, vyhláška č. 31/1995 Sb., vyhláška č. 393/2020 Sb., o digitální technické mapě kraje, vyhláška č. 438/2023 Sb. a nařízení vlády č. 159/2023 Sb.) a z obecných výkladových zásad. Místní materiály neobsahují k zákonu samostatnou judikaturní kartu; komentář proto nepracuje s konkrétními soudními rozhodnutími a nikde neuvádí spisové značky — tam, kde je výklad sporný, jej poctivě označuje jako **výkladovou otázku**. Na řadu míst, kde poznámky pod čarou konsolidovaného znění odkazují na zrušené předpisy nebo jsou číslováním zjevně nesouladné s textem, výklad u jednotlivých ustanovení výslovně upozorňuje.
+> **Metodická poznámka:** Výklad jednotlivých ustanovení vychází z doslovného konsolidovaného znění zákona citovaného v kapitolách, ze systematiky zákona, z navazujících předpisů dostupných v místní kopii e-Sbírky (zejména zákon č. 359/1992 Sb., o zeměměřických a katastrálních orgánech, vyhláška č. 31/1995 Sb., vyhláška č. 393/2020 Sb., o digitální technické mapě kraje, vyhláška č. 438/2023 Sb. a nařízení vlády č. 159/2023 Sb.) a z obecných výkladových zásad. Z místních zdrojů je ke komentáři připojena jedna judikaturní karta: [NS 20 Cdo 588/2022](judikatura/NS-20-Cdo-588-2022.md) k § 16, podle jejíž právní věty rozsudek, jehož nedílnou součástí je geometrický plán vyhotovený jako originál v listinné podobě, nelze doručit prostřednictvím veřejné datové sítě do datové schránky, neboť to jeho povaha neumožňuje. Jinak komentář s konkrétními soudními rozhodnutími nepracuje — tam, kde je výklad sporný, jej poctivě označuje jako **výkladovou otázku**. Na řadu míst, kde poznámky pod čarou konsolidovaného znění odkazují na zrušené předpisy nebo jsou číslováním zjevně nesouladné s textem, výklad u jednotlivých ustanovení výslovně upozorňuje.
 
 ---
 
@@ -76,7 +76,7 @@ Doprovodné soubory [ZASADY.md](ZASADY.md) a [PRAVNI-MODALITY.md](PRAVNI-MODALIT
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** (bez elips) podle dokumentu e-Sbírky `SB-1994-00200_2026-01-01`, pod ním oddíl `**Výklad:**` členěný podle odstavců a dále oddíly F. Kazuistika, G. Protiargumenty a rizika, H. Praktický závěr a kontrolní checklist.
 - Zrušená ustanovení (§ 13–15, § 19) se nekomentují; odkazy na ně v přechodných a novelizačních ustanoveních jsou vykládány historicky.
 - Nesoulady poznámek pod čarou konsolidovaného znění (odkazy na zrušené předpisy, kolize číslování) jsou u dotčených ustanovení výslovně označeny; výklad se v takových případech opírá o text zákona a o platné znění navazujícího předpisu.
-- Komentář neobsahuje judikaturu ani spisové značky; sporné body jsou označeny jako výkladové otázky s uvedením argumentů pro jednotlivé varianty.
+- Judikatura z místních zdrojů je zařazena u § 16 (1 karta: [NS 20 Cdo 588/2022](judikatura/NS-20-Cdo-588-2022.md)); ostatní sporné body jsou označeny jako výkladové otázky s uvedením argumentů pro jednotlivé varianty.
 
 ---
 

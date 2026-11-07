@@ -13,7 +13,7 @@ Každá z třinácti vrstev odděluje místní zjištění, autorský test a doh
 - **Syntéza:** autorské propojení textu, systematiky a místních pramenů.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení.
 
-Místní korpus pro tuto mapu tvoří **5 kapitol** (úvod a čtyři výkladové kapitoly), **47 samostatně nadepsaných ustanovení**, **34 modalitních příkladů**, **7 právních zásad** a **0 místních karet rozhodnutí**. Složka `judikatura/` dosud neexistuje a doplní se strojově později; místní důvodová zpráva v repozitáři není.
+Místní korpus pro tuto mapu tvoří **5 kapitol** (úvod a čtyři výkladové kapitoly), **47 samostatně nadepsaných ustanovení**, **34 modalitních příkladů**, **7 právních zásad** a **1 místní kartu rozhodnutí** ([NS 20 Cdo 588/2022](judikatura/NS-20-Cdo-588-2022.md) k § 16). Místní důvodová zpráva v repozitáři není.
 
 ## 1. Znění, novelizace a časová působnost
 
@@ -219,20 +219,27 @@ Reprezentativní normativní vazby porušení a následku:
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Místní složka `judikatura/` zatím neexistuje (doplní se strojově později) a obsahuje tedy **0 karet rozhodnutí**; soubor zásad odkazuje na **0 místních karet s použitelnou citací**. Kapitoly obsahují **0 rozpoznaných citací nebo odkazů na rozhodovací praxi**.
-Komentář tuto mezeru sám výslovně deklaruje:
-- [Komentář k zákonu č. 200/1994 Sb.](00-uvod.md): „Místní materiály neobsahují k zákonu samostatnou judikaturní kartu; komentář proto nepracuje s konkrétními soudními rozhodnutími a nikde neuvádí spisové značky“
-- [Poznámka k metodě](00-uvod.md): „Komentář neobsahuje judikaturu ani spisové značky; sporné body jsou označeny jako výkladové otázky s uvedením argumentů pro jednotlivé varianty.“
+Místní složka `judikatura/` obsahuje **1 kartu rozhodnutí** — [NS 20 Cdo 588/2022](judikatura/NS-20-Cdo-588-2022.md), citovanou u § 16 v kapitole [02-prava-povinnosti-overovani.md](02-prava-povinnosti-overovani.md); soubor zásad ji zmiňuje jen v úvodní poznámce a žádnou zásadu na ní nestaví. Kapitoly obsahují **1 citaci rozhodnutí** (u § 16).
+Nosný závěr podle právní věty karty:
+- [§ 16 — Ověřování výsledků zeměměřických činností autorizovanými zeměměřickými inženýry](02-prava-povinnosti-overovani.md): „Rozsudek, jehož nedílnou součástí je geometrický plán vyhotovený jako originál v listinné podobě, nelze doručit prostřednictvím veřejné datové sítě do datové schránky, neboť to jeho povaha neumožňuje“
 
-Místní korpus neposkytuje rozpoznanou kartu ani citaci rozhodnutí; judikatorní závěr se proto nesmí domýšlet. Ani [ZASADY.md](ZASADY.md) nejsou postaveny na judikatorních tezích, nýbrž na textu zákona, systematice a výslovně vyjádřeném účelu.
+Hranici použitelnosti vymezuje sama kapitola:
+- [§ 16 — Ověřování výsledků zeměměřických činností autorizovanými zeměměřickými inženýry](02-prava-povinnosti-overovani.md): „Karta se § 16 dotýká jen nepřímo: neřeší ověřování samo, ale doručování rozsudku, jehož nedílnou součástí je geometrický plán vyhotovený jako originál v listinné podobě“
+- [§ 16 — Ověřování výsledků zeměměřických činností autorizovanými zeměměřickými inženýry](02-prava-povinnosti-overovani.md): „Zda se závěr uplatní stejně u geometrického plánu vyhotoveného a ověřeného v elektronické podobě, karta neřeší; jde o výkladovou otázku“
+
+Úvod stav zachycuje:
+- [Komentář k zákonu č. 200/1994 Sb.](00-uvod.md): „Jinak komentář s konkrétními soudními rozhodnutími nepracuje — tam, kde je výklad sporný, jej poctivě označuje jako výkladovou otázku“
+- [Poznámka k metodě](00-uvod.md): „ostatní sporné body jsou označeny jako výkladové otázky s uvedením argumentů pro jednotlivé varianty.“
+
+U zbývajících 46 ustanovení místní korpus kartu ani citaci rozhodnutí neposkytuje; judikatorní závěr se u nich nesmí domýšlet. [ZASADY.md](ZASADY.md) nejsou postaveny na judikatorních tezích, nýbrž na textu zákona, systematice a výslovně vyjádřeném účelu.
 
 **Hloubkový test.**
-- Po strojovém doplnění složky `judikatura/` u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
+- U karty NS 20 Cdo 588/2022 i u každého dalšího doplněného rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
 - Ověřte, zda soud vykládal stejné znění (zejména u ustanovení měněných novelami o autorizaci, digitálních technických mapách a přestupcích) a stejný právní problém, a zda závěr nebyl později odlišen nebo překonán.
 - Nevytvářejte obecnou právní větu z úvahy závislé na zvláštních skutkových okolnostech; rozhodnutí k zákonu č. 46/1971 Sb. nebo k úředním oprávněním přenášejte jen s výslovným časovým testem.
 - Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability.
 
-**Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); [Poznámka k metodě](00-uvod.md)
+**Místní opora.** [NS 20 Cdo 588/2022](judikatura/NS-20-Cdo-588-2022.md); [§ 16 — Ověřování výsledků zeměměřických činností autorizovanými zeměměřickými inženýry](02-prava-povinnosti-overovani.md); [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); [Poznámka k metodě](00-uvod.md)
 
 ## 10. Konkurenční výklady, protiargumenty a hraniční případy
 
@@ -251,7 +258,7 @@ Každé z 47 komentovaných ustanovení obsahuje oddíl **G. Protiargumenty a ri
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu (např. u § 17c jazykový výklad bez uvážení proti požadavku přiměřenosti).
-- U každé varianty uveďte textový, systematický, historický a účelový argument; místní judikatorní argument zatím chybí a musí být označen jako mezera.
+- U každé varianty uveďte textový, systematický, historický a účelový argument; místní judikatorní argument je k dispozici jen u § 16 (karta NS 20 Cdo 588/2022); jinde musí být označen jako mezera.
 - Porovnejte praktické následky variant a vysvětlete, který argument převáží a za jakých předpokladů.
 - Není-li spor místními prameny řešitelný, zachovejte varianty a označte nejistotu místo předstírání ustáleného závěru.
 
@@ -301,7 +308,7 @@ Aplikační vrstvu lze ověřit zejména v:
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **5 kapitolami** (úvod a čtyři výkladové kapitoly). Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- místní složka `judikatura/` dosud neexistuje (doplní se strojově později); soubor zásad neposkytuje odkaz na místní kartu s citovatelnou tezí.
+- místní složka `judikatura/` obsahuje jen 1 kartu ([NS 20 Cdo 588/2022](judikatura/NS-20-Cdo-588-2022.md) k § 16); u zbývajících 46 ustanovení místní judikatura chybí a soubor zásad na kartě žádnou zásadu nestaví.
 - místní důvodová zpráva k zákonu ani k jeho novelám v repozitáři není; historický argument se opírá jen o úvod a výklad k § 18, § 21–24.
 - přechodná ustanovení novel nejsou do konsolidovaného textu začleněna; časová působnost jednotlivých změn musí být ověřována samostatně.
 - konkurenční výklady jsou zachyceny v oddílech G a jako výkladové otázky, nejsou však samostatně katalogizovány.
@@ -322,21 +329,21 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Úvod — Komentář k zákonu č. 200/1994 Sb.](00-uvod.md) | ano | ano | ano | jen deklarovaná mezera | ano | ano | jen metodicky | ano |
+| [Úvod — Komentář k zákonu č. 200/1994 Sb.](00-uvod.md) | ano | ano | ano | ano (odkaz na kartu k § 16) | ano | ano | jen metodicky | ano |
 | [Kapitola 1 (§ 1–5b)](01-uvodni-cinnosti-data-mapy.md) | ano | nenalezeno | ano | nenalezeno | ano | ano | ano | ano |
-| [Kapitola 2 (§ 6–16d)](02-prava-povinnosti-overovani.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
+| [Kapitola 2 (§ 6–16d)](02-prava-povinnosti-overovani.md) | ano | ano | ano | ano (§ 16) | ano | ano | ano | ano |
 | [Kapitola 3 (§ 16e–16q)](03-autorizace-komora.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 | [Kapitola 4 (§ 17–24)](04-referencni-systemy-prestupky-zaverecna.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** textový signál nebyl nalezen ve 4 z 5 kapitol; úvod mezeru pouze deklaruje. Po strojovém doplnění složky `judikatura/` je nutné projít všechna ustanovení s výkladovou otázkou.
+- **Judikatura:** textový signál je v [Kapitole 2 (§ 6–16d)](02-prava-povinnosti-overovani.md) (karta [NS 20 Cdo 588/2022](judikatura/NS-20-Cdo-588-2022.md) u § 16) a v úvodu; v kapitolách 1, 3 a 4 nebyl nalezen. Při doplnění dalších karet je nutné projít všechna ustanovení s výkladovou otázkou.
 - **Důkazy:** výslovný důkazní signál nebyl nalezen v [Kapitole 1 (§ 1–5b)](01-uvodni-cinnosti-data-mapy.md); kapitola uvádí jen „typicky rozhodné podklady“.
 - **Čas:** v [Kapitole 3 (§ 16e–16q)](03-autorizace-komora.md) nebyl nalezen signál o novelizaci ani přechodu od úředních oprávnění k autorizaci.
 
 **Hloubkový test.**
 - Na konci výkladu evidujte ověřené pravidlo, použitý místní zdroj, míru jistoty, otevřenou otázku a datum kontroly.
-- Aktualizaci spouští změna znění (nová konsolidace po 1. 1. 2026), nové prováděcí předpisy k § 20, doplnění karet rozhodnutí, rozpor mezi kapitolou a systémovým dokumentem nebo nefunkční odkaz.
+- Aktualizaci spouští změna znění (nová konsolidace po 1. 1. 2026), nové prováděcí předpisy k § 20, doplnění dalších karet rozhodnutí, rozpor mezi kapitolou a systémovým dokumentem nebo nefunkční odkaz.
 - Tvrzení bez místní opory označte jako hypotézu či otevřenou otázku; absenci pramene nevydávejte za ustálené právo.
 - Po každé aktualizaci znovu ověřte časovou působnost, odkazy, návazné předpisy a modelové příklady.
 
@@ -373,7 +380,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 - [ ] Rozhodné znění a přechodná ustanovení jsou označena.
 - [ ] Každý pojem a modalita mají určený právní následek.
 - [ ] Procesní a důkazní rovina navazují na jednotlivé znaky normy.
-- [ ] Judikatura je zasazena do skutkového a procesního kontextu (po doplnění složky `judikatura/`).
+- [ ] Judikatura je zasazena do skutkového a procesního kontextu (karta NS 20 Cdo 588/2022 u § 16 i karty doplněné později).
 - [ ] Konkurenční výklad je formulován v nejsilnější obhajitelné podobě.
 - [ ] Modelový případ obsahuje úplnou subsumpci a variantu hraničního případu.
 - [ ] Nejistoty, mezery a aktualizační spouštěče jsou viditelné.

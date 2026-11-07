@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva ani místní karty rozhodnutí v repozitáři nejsou (složka `judikatura/` se doplní strojově později). Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva v repozitáři není; složka `judikatura/` obsahuje 1 místní kartu rozhodnutí ([NS 20 Cdo 588/2022](judikatura/NS-20-Cdo-588-2022.md) k § 16). Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -89,7 +89,7 @@ Normativní text v místních kapitolách upozorňuje například na:
 
 **Jak ji řešit.** Pro každý znak normy vytvořte řádek: rozhodná skutečnost, kdo ji tvrdí, dostupný důkaz (evidence ověřených výsledků, doklady o přesnosti, oznámení o umístění značky, záznam v rejstříku), kdo důkaz opatřuje, míra přesvědčení a následek neprokázání. Právní argument nenahrazuje skutkové zjištění a zákonnou domněnku nelze dovodit jen z obtížného dokazování.
 
-**Místní opora.** [§ 16 — Ověřování výsledků zeměměřických činností autorizovanými zeměměřickými inženýry](02-prava-povinnosti-overovani.md); [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md); místní judikatura zatím chybí (složka `judikatura/` se doplní strojově později)
+**Místní opora.** [§ 16 — Ověřování výsledků zeměměřických činností autorizovanými zeměměřickými inženýry](02-prava-povinnosti-overovani.md); [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md); místní karta [NS 20 Cdo 588/2022](judikatura/NS-20-Cdo-588-2022.md) k § 16
 
 ## 7. Jaké právní následky, sankce a prostředky ochrany navazují?
 
@@ -125,12 +125,13 @@ Typickým střetem je veřejný zájem na zaměření proti vlastnickému právu
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Místní složka `judikatura/` zatím neexistuje a obsahuje tedy **0** karet rozhodnutí; v systematickém souboru zásad je odkazováno na **0** různých místních karet s použitelnou citací. Komentář to sám uvádí: [Komentář k zákonu č. 200/1994 Sb.](00-uvod.md): „Místní materiály neobsahují k zákonu samostatnou judikaturní kartu; komentář proto nepracuje s konkrétními soudními rozhodnutími a nikde neuvádí spisové značky“
-Místní korpus neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se proto nesmí domýšlet. Složka `judikatura/` se doplní strojově později.
+Místní složka `judikatura/` obsahuje **1** kartu rozhodnutí: [NS 20 Cdo 588/2022](judikatura/NS-20-Cdo-588-2022.md), citovanou u § 16; v systematickém souboru zásad je na ni odkazováno jen v úvodní poznámce, žádná zásada na ní nestojí. Nosný závěr podle právní věty karty: [§ 16 — Ověřování výsledků zeměměřických činností autorizovanými zeměměřickými inženýry](02-prava-povinnosti-overovani.md): „Rozsudek, jehož nedílnou součástí je geometrický plán vyhotovený jako originál v listinné podobě, nelze doručit prostřednictvím veřejné datové sítě do datové schránky, neboť to jeho povaha neumožňuje“
+Hranici použitelnosti vymezuje sama kapitola: [§ 16 — Ověřování výsledků zeměměřických činností autorizovanými zeměměřickými inženýry](02-prava-povinnosti-overovani.md): „Karta se § 16 dotýká jen nepřímo: neřeší ověřování samo, ale doručování rozsudku, jehož nedílnou součástí je geometrický plán vyhotovený jako originál v listinné podobě“; „Zda se závěr uplatní stejně u geometrického plánu vyhotoveného a ověřeného v elektronické podobě, karta neřeší; jde o výkladovou otázku“
+U zbývajících 46 ustanovení místní korpus citovatelnou judikatorní tezi neposkytuje; judikatorní odpověď se u nich nesmí domýšlet.
 
-**Jak ji řešit.** Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění a stejný právní problém. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; do té doby chybějící místní judikaturu označujte jako mezeru.
+**Jak ji řešit.** U karty NS 20 Cdo 588/2022 i u každého dalšího doplněného rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění a stejný právní problém. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; u ustanovení bez místní karty označujte chybějící judikaturu jako mezeru.
 
-**Místní opora.** [Poznámka k metodě](00-uvod.md); [místní zásady](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
+**Místní opora.** [NS 20 Cdo 588/2022](judikatura/NS-20-Cdo-588-2022.md); [Poznámka k metodě](00-uvod.md); [místní zásady](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
 
 ## 10. Jaké systematické, kolizní a časové vazby mohou změnit odpověď?
 
@@ -159,7 +160,7 @@ Místní kapitoly výslovně zachycují například tyto otázky nebo námitky:
 
 Reprezentativní formulace: [§ 17c](04-referencni-systemy-prestupky-zaverecna.md): „Zda je odejmutí autorizace v takovém případě přiměřené, je výkladovou otázkou“
 
-**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, účelový a — po doplnění karet — místní judikatorní argument, praktický následek a důvod, proč jeden převáží. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
+**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, účelový a — tam, kde místní karta existuje (zatím jen § 16) — místní judikatorní argument, praktický následek a důvod, proč jeden převáží. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
 
 **Místní opora.** [místní kapitoly](01-uvodni-cinnosti-data-mapy.md); [02-prava-povinnosti-overovani.md](02-prava-povinnosti-overovani.md); [03-autorizace-komora.md](03-autorizace-komora.md); [04-referencni-systemy-prestupky-zaverecna.md](04-referencni-systemy-prestupky-zaverecna.md); [místní zásady](ZASADY.md)
 
@@ -176,9 +177,9 @@ Aplikační vrstvu lze ověřit zejména v: [01-uvodni-cinnosti-data-mapy](01-uv
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **5** kapitol (úvod a čtyři výkladové kapitoly) se **47** komentovanými ustanoveními a **0** karet rozhodnutí, doplněných samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **5** kapitol (úvod a čtyři výkladové kapitoly) se **47** komentovanými ustanoveními a **1** kartou rozhodnutí ([NS 20 Cdo 588/2022](judikatura/NS-20-Cdo-588-2022.md) k § 16), doplněných samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura neposkytuje citovatelnou tezi; složka `judikatura/` se doplní strojově později.
+- místní judikatura je zastoupena jedinou kartou ([NS 20 Cdo 588/2022](judikatura/NS-20-Cdo-588-2022.md) k § 16); u zbývajících 46 ustanovení místní judikatura chybí.
 - místní důvodová zpráva k zákonu ani k novelám není k dispozici.
 - přechodná ustanovení novel nejsou v konsolidovaném textu; komentář vychází ze znění k 1. 1. 2026.
 
